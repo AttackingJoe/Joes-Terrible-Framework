@@ -1,0 +1,1 @@
+["Terminate", [allPlayers]] call BIS_fnc_EGSpectator;

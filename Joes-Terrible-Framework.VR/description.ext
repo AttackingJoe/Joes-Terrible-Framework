@@ -1,0 +1,75 @@
+respawnOnStart = -1; 
+disableChannels[] = { 0, 1 , 4, 6};
+
+class CfgFunctions
+{
+	class function 
+	{
+		class gear
+		{
+			class B_Lead {file = "gear\BlueFor\B_FTL-SL.sqf";
+			headerType = -1;};
+
+			class B_AR {file = "gear\BlueFor\B_AR.sqf";
+			headerType = -1;};
+
+			class B_AAR {file = "gear\BlueFor\B_AAR.sqf";
+			headerType = -1;};
+
+			class B_RAT {file = "gear\BlueFor\B_RAT.sqf";
+			headerType = -1;};
+
+			class B_Medic {file = "gear\BlueFor\B_Medic.sqf";
+			headerType = -1;};
+
+			class B_Rifleman {file = "gear\BlueFor\B_Rifleman.sqf";
+			headerType = -1;};
+
+			class B_Crew {file = "gear\BlueFor\B_Crewman.sqf";
+			headerType = -1;};
+
+			class R_Lead {file = "gear\RedFor\R_FTL-SL.sqf";
+			headerType = -1;};
+
+			class R_AR {file = "gear\RedFor\R_AR.sqf";
+			headerType = -1;};
+
+			class R_AAR {file = "gear\RedFor\R_AAR.sqf";
+			headerType = -1;};
+
+			class R_RAT {file = "gear\RedFor\R_RAT.sqf";
+			headerType = -1;};
+
+			class R_Medic {file = "gear\RedFor\R_Medic.sqf";
+			headerType = -1;};
+
+			class R_Rifleman {file = "gear\RedFor\R_Rifleman.sqf";
+			headerType = -1;};
+
+			class R_Crew {file = "gear\RedFor\R_Crewman.sqf";
+			headerType = -1;};
+
+			class G_Lead {file = "gear\GreenFor\G_FTL-SL.sqf";
+			headerType = -1;};
+
+			class G_AR {file = "gear\GreenFor\G_AR.sqf";
+			headerType = -1;};
+
+			class G_AAR {file = "gear\GreenFor\G_AAR.sqf";
+			headerType = -1;};
+
+			class G_RAT {file = "gear\GreenFor\G_RAT.sqf";
+			headerType = -1;};
+
+			class G_Medic {file = "gear\GreenFor\G_Medic.sqf";
+			headerType = -1;};
+
+			class G_Rifleman {file = "gear\GreenFor\G_Rifleman.sqf";
+			headerType = -1;};
+
+			class G_Crew {file = "gear\GreenFor\G_Crewman.sqf";
+			headerType = -1;};
+		};
+	};
+};
+

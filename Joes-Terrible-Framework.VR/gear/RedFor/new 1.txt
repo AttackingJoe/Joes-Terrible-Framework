@@ -1,0 +1,4 @@
+C:\Steam\steamapps\common\sandstorm_server\InsurgencyServer.exe Crossing ?Scenario_Crossing_Checkpoint_Insurgents?MaxPlayers=28 -Port=27102 -QueryPort=27131 -log -hostname="The Company Plays Video Games”
+
+
+C:\Steam\steamapps\common\sandstorm_server\InsurgencyServer.exe
